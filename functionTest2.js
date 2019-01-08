@@ -19,9 +19,7 @@ var f1 = function () {
 
 // f1 = 1; error
 
-var f2 = function () {
-  console.log("anonymous function expression");
-};
+
 
 f();
 
