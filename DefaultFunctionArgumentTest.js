@@ -9,7 +9,7 @@ console.log(add(10, 30, 2, 3, 4, 5));
 var sumNumbers = function () {
   var i, sum = 0;
   for (i = 0; i < arguments.length; i++) {
-      sum += arguments[i];
+      sum += arguments[i]; 
   }
   return sum;
 };
